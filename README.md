@@ -4,6 +4,7 @@ An R-based data science project analyzing speaker observations to predict indivi
 Project Structure
 
 0_data_processing.ipynb: Data cleaning and feature engineering (rolling averages, cumulative stats).
+
 1_motion_bias_model.ipynb: TF-IDF text analysis and XGBoost to identify structural advantages in debate topics.
 2_points_model.ipynb: Predictive modeling of speaker and team performance using XGBoost.
 Research_Paper.pdf: Detailed methodology, including the Econometric Fixed-Effects (FE) analysis (note: FE code is currently excluded from notebooks).
